@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@inquirer/prompts": "^5.3.6",
-    "fetch-undici-polyfill": "^1.2.1"
+    "fetch-undici-polyfill": "^1.2.1",
+    "viem": "^2.18.8"
   }
 }
